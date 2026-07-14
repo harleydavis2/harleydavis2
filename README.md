@@ -132,11 +132,11 @@ Tech Used:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/harley-davis-j-a-2b39b6249/))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black)](YOUR_PORTFOLIO)
 
-📧 Email: YOUR_EMAIL
+📧 Email: harleydavisja2@gmail.com
 
 ---
 
