@@ -132,7 +132,7 @@ Tech Used:
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/harley-davis-j-a-2b39b6249/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/harley-davis-j-a-2b39b6249/))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black)](YOUR_PORTFOLIO)
 
